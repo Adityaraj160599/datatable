@@ -61,7 +61,7 @@ return(
     data={filteredCountries}
     pagination
     fixedHeader
-    fixedHeaderScrollHeight="450px"
+    fixedHeaderScrollHeight="550px"
     selectableRows
     selectableRowsHighlight
     subHeader
